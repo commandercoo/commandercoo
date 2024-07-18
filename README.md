@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @commandercoo. Thats its
+- 👋 Hi, I’m @commandercoo.
+- ✊ I hate Github 2FA
 
